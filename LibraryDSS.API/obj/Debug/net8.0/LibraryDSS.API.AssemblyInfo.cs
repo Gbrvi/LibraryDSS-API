@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryDSS.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcd67d63f007465432fd6524b57a8d9eb89d8ab2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryDSS.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryDSS.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

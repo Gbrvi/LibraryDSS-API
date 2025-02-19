@@ -3,6 +3,7 @@ using LibraryDSS.Communication.Response;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using LibraryDSS.API.UseCases.Users.Register;
+using LibraryDSS.Exception;
 
 
 namespace LibraryDSS.API.Controllers
@@ -20,12 +21,33 @@ namespace LibraryDSS.API.Controllers
 
         [HttpPost]
         [ProducesResponseType(typeof(ResponseRegisteredUserJson), StatusCodes.Status201Created)]
+        [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status400BadRequest)]
         public IActionResult Create(RequestUserJson request)
         {
+            try
+            {
 
-            var response = _useCase.Execute(request);
+                var response = _useCase.Execute(request);
 
-            return Created(string.Empty,response);
+                return Created(string.Empty, response);
+            }
+
+            catch(LibraryDSSException ex) // Exception da API
+            {
+                return BadRequest(new ResponseErrorMessagesJson
+                { //Pode confiar na mensagem erro
+                    Errors = ex.GetErrorMessages() 
+                });
+            }
+
+            catch //Exception do Sistema
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, new ResponseErrorMessagesJson
+                {
+                    Errors = ["Erro Desconhecido "]
+                });
+            }
+
         }
     }
 }
