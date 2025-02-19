@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N1UN5GrL66OsYostUjxJWHv8UsdY4HTX0yXdKhx3GZc=",
+  "Source": "LibraryDSS.API",
+  "BasePath": "_content/LibraryDSS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

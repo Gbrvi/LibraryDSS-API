@@ -1,0 +1,11 @@
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\bin\Debug\net8.0\LibraryDSS.Communication.deps.json
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\bin\Debug\net8.0\LibraryDSS.Communication.dll
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\bin\Debug\net8.0\LibraryDSS.Communication.pdb
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\obj\Debug\net8.0\LibraryDSS.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\obj\Debug\net8.0\LibraryDSS.Communication.AssemblyInfoInputs.cache
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\obj\Debug\net8.0\LibraryDSS.Communication.AssemblyInfo.cs
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\obj\Debug\net8.0\LibraryDSS.Communication.csproj.CoreCompileInputs.cache
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\obj\Debug\net8.0\LibraryDSS.Communication.dll
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\obj\Debug\net8.0\refint\LibraryDSS.Communication.dll
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\obj\Debug\net8.0\LibraryDSS.Communication.pdb
+C:\Users\gvalm\source\repos\Library\LibraryDSS.Communication\obj\Debug\net8.0\ref\LibraryDSS.Communication.dll
