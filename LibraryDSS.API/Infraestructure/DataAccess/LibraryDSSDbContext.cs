@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyModel;
 
-namespace LibraryDSS.API.Infraestructure
+namespace LibraryDSS.API.Infraestructure.DataAccess
 {
     public class LibraryDSSDbContext : DbContext
     {
