@@ -3,11 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4361B9C-AEEA-40F8-B69E-6209CBA36BCD}|..\\LibraryDSS.Communication\\LibraryDSS.Communication.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.communication\\response\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4361B9C-AEEA-40F8-B69E-6209CBA36BCD}|..\\LibraryDSS.Communication\\LibraryDSS.Communication.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.communication\\response\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.api\\filter\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|solutionrelative:filter\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.api\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|solutionrelative:usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4361B9C-AEEA-40F8-B69E-6209CBA36BCD}|..\\LibraryDSS.Communication\\LibraryDSS.Communication.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.communication\\response\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,15 +43,8 @@
       "RelativeMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|solutionrelative:infraestructure\\security\\cryptography\\bcryptalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.api\\infraestructure\\security\\token\\access\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|solutionrelative:infraestructure\\security\\token\\access\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4361B9C-AEEA-40F8-B69E-6209CBA36BCD}|..\\LibraryDSS.Communication\\LibraryDSS.Communication.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.communication\\response\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.api\\usecases\\users\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,10 +66,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{77BB28F2-0A32-49A8-91E5-1E417B41D1A9}|..\\LibraryDSS.Exception\\LibraryDSS.Exception.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2898023C-2489-44DD-BBDE-812F3B3B722D}|LibraryDSS.API.csproj|c:\\users\\gvalm\\source\\repos\\library\\librarydss.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -88,32 +92,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DoLoginUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "RelativeDocumentMoniker": "UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "ToolTip": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "RelativeToolTip": "UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAjwBQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T22:21:17.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ToolTip": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Controllers\\LoginController.cs*",
+              "RelativeToolTip": "Controllers\\LoginController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T22:17:31.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "RegisterUserUseCase.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
               "RelativeDocumentMoniker": "UseCases\\Users\\Register\\RegisterUserUseCase.cs",
@@ -126,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "ResponseErrorMessagesJson.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.Communication\\Response\\ResponseErrorMessagesJson.cs",
               "RelativeDocumentMoniker": "..\\LibraryDSS.Communication\\Response\\ResponseErrorMessagesJson.cs",
@@ -134,11 +125,12 @@
               "RelativeToolTip": "..\\LibraryDSS.Communication\\Response\\ResponseErrorMessagesJson.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T18:40:31.269Z"
+              "WhenOpened": "2025-02-19T18:40:31.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
@@ -150,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "LibraryDSSDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Infraestructure\\DataAccess\\LibraryDSSDbContext.cs",
               "RelativeDocumentMoniker": "Infraestructure\\DataAccess\\LibraryDSSDbContext.cs",
@@ -162,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "BCryptAlgorithm.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
               "RelativeDocumentMoniker": "Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
@@ -170,12 +162,11 @@
               "RelativeToolTip": "Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:47:59.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:47:59.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
@@ -188,7 +179,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:51:28.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ResponseRegisteredUserJson.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.Communication\\Response\\ResponseRegisteredUserJson.cs",
               "RelativeDocumentMoniker": "..\\LibraryDSS.Communication\\Response\\ResponseRegisteredUserJson.cs",
@@ -201,7 +205,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "DoLoginUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "ToolTip": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "RelativeToolTip": "UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T22:21:17.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Filter\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filter\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Filter\\ExceptionFilter.cs",
+              "RelativeToolTip": "Filter\\ExceptionFilter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:21:30.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "RequestLoginJson.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.Communication\\Request\\RequestLoginJson.cs",
               "RelativeDocumentMoniker": "..\\LibraryDSS.Communication\\Request\\RequestLoginJson.cs",
@@ -209,12 +239,11 @@
               "RelativeToolTip": "..\\LibraryDSS.Communication\\Request\\RequestLoginJson.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T22:18:38.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T22:18:38.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "InvalidLoginException.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.Exception\\InvalidLoginException.cs",
               "RelativeDocumentMoniker": "..\\LibraryDSS.Exception\\InvalidLoginException.cs",
@@ -222,12 +251,11 @@
               "RelativeToolTip": "..\\LibraryDSS.Exception\\InvalidLoginException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T22:26:22.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T22:26:22.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Infraestructure\\Security\\Token\\Access\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Infraestructure\\Security\\Token\\Access\\JwtTokenGenerator.cs",
@@ -239,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "RegisterUserValidator.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
               "RelativeDocumentMoniker": "UseCases\\Users\\Register\\RegisterUserValidator.cs",
@@ -251,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ErrorOnValidationException.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.Exception\\ErrorOnValidationException.cs",
               "RelativeDocumentMoniker": "..\\LibraryDSS.Exception\\ErrorOnValidationException.cs",
@@ -263,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "RequestUserJson.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.Communication\\Request\\RequestUserJson.cs",
               "RelativeDocumentMoniker": "..\\LibraryDSS.Communication\\Request\\RequestUserJson.cs",
@@ -275,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "LibraryDSSException.cs",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.Exception\\LibraryDSSException.cs",
               "RelativeDocumentMoniker": "..\\LibraryDSS.Exception\\LibraryDSSException.cs",
@@ -287,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -299,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "LibraryDSS.API",
               "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\LibraryDSS.API.csproj",
               "RelativeDocumentMoniker": "LibraryDSS.API.csproj",
@@ -307,18 +335,6 @@
               "RelativeToolTip": "LibraryDSS.API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-18T18:55:42.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gvalm\\source\\repos\\Library\\LibraryDSS.API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBZwAwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:51:28.662Z"
             }
           ]
         }

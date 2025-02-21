@@ -1,3 +1,4 @@
+using LibraryDSS.API.Filter;
 using LibraryDSS.API.UseCases.Users.Register;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,8 @@ builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddScoped<RegisterUserUseCase>();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddMvc(options => options.Filters.Add(typeof(ExceptionFilter)));
 
 
 var app = builder.Build();

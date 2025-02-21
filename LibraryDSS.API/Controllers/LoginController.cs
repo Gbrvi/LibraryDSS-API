@@ -1,5 +1,6 @@
 ﻿using LibraryDSS.API.UseCases.Login.DoLogin;
 using LibraryDSS.Communication.Request;
+using LibraryDSS.Communication.Response;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LibraryDSS.API.Controllers
@@ -9,6 +10,8 @@ namespace LibraryDSS.API.Controllers
     public class LoginController : ControllerBase
     {
         [HttpPost]
+        [ProducesResponseType(typeof(ResponseRegisteredUserJson), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status401Unauthorized)]
         public IActionResult DoLogin(RequestLoginJson request)
         {
             var useCase = new DoLoginUseCase();
