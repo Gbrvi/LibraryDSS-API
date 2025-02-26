@@ -5,11 +5,12 @@ namespace LibraryDSS.Exception
 {
     public class InvalidLoginException : LibraryDSSException
     {
-
-        public override List<string> GetErrorMessages()
+        public InvalidLoginException() : base("Email e/ou senha invalidos.")
         {
-            return ["Email e/ou senha invalidos."];
+            
         }
+        public override List<string> GetErrorMessages() => [Message];
+      
 
         public override HttpStatusCode GetStatusCode() => HttpStatusCode.Unauthorized;
        

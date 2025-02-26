@@ -9,6 +9,10 @@ namespace LibraryDSS.Exception
 {
     public abstract class LibraryDSSException : SystemException
     {
+        protected LibraryDSSException(string message) : base(message)
+        {
+            
+        }
         public abstract List<string> GetErrorMessages();
         public abstract HttpStatusCode GetStatusCode();
     }
