@@ -11,7 +11,7 @@ namespace LibraryDSS.API.UseCases.Users.Register
             RuleFor(request => request.Email).EmailAddress().WithMessage("O email é inválido");
             When(request => string.IsNullOrEmpty(request.Password) == false, () =>
             {
-                RuleFor(request => request.Password.Length).GreaterThanOrEqualTo(6).WithMessage("Senha é obrigatória");
+                RuleFor(request => request.Password.Length).GreaterThanOrEqualTo(6).WithMessage("Precisa ter 6 caracteres minimo");
             });
         }
     }
